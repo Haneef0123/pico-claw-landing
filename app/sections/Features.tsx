@@ -1,7 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
-import { Terminal, Cpu, Shield, Zap, Code, MessageSquare, Globe } from "lucide-react";
+import { Terminal, Cpu, Shield, Zap, Code, MessageSquare } from "lucide-react";
 import { AnimatedSection } from "../components/AnimatedSection";
 
 const features = [

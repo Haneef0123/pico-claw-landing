@@ -1,6 +1,5 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { Github, Twitter, MessageCircle, Mail } from "lucide-react";
 import { ClawLogo } from "../components/ClawLogo";
 
