@@ -1,0 +1,1 @@
+Profesionales and enthusiasts of low-level technologies with values for lightweight software, AI, self-hosting community.
