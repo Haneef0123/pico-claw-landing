@@ -11,7 +11,7 @@ interface CodeBlockProps {
   className?: string;
 }
 
-export function CodeBlock({ code, language = 'bash', fileName, className = '' }: CodeBlockProps) {
+export function CodeBlock({ code, language: _language = 'bash', fileName, className = '' }: CodeBlockProps) {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = async () => {

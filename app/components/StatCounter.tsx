@@ -15,7 +15,7 @@ export function StatCounter({
   value, 
   suffix = '', 
   prefix = '',
-  duration = 2,
+  duration: _duration = 2,
   className = '' 
 }: StatCounterProps) {
   const ref = useRef<HTMLSpanElement>(null);

@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Terminal, Sparkles, Zap } from "lucide-react";
+import { Terminal, Sparkles } from "lucide-react";
 import { ClawLogo } from "../components/ClawLogo";
 import { Cursor } from "../components/Cursor";
 
