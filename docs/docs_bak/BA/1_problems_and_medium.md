@@ -1,1 +1,0 @@
-PicoClaw is an ultra-lightweight AI assistant written in Go that runs efficiently on minimal hardware, including Raspberry Pi Zero ($10 boards with <10 MB RAM).

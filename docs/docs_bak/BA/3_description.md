@@ -1,1 +1,0 @@
-an ultra-lightweight AI assistant written in Go
